@@ -16,7 +16,7 @@ Taiga Tracker link - https://tree.taiga.io/project/honraoyash-fashionxt-nxtfolio
   - [Using Dockerfile (Ubuntu 18.04)](#using-dockerfile-ubuntu-1804)
   - [Run on Linux without docker (tested on AWS E2C, Ubuntu 18.04)](#run-on-linux-without-docker-tested-on-aws-e2c-ubuntu-1804)
   - [Helpful fixes](#helpful-fixes)
-- [How to Deploy :](#how-to-deploy)
+- [How to Deploy:](#how-to-deploy)
 - [Using AWS S3 as Image Backend](#using-aws-s3-as-image-backend)
 - [Country/States/Cities Database](#countrystatescities-database)
 - [Geocoding](#geocoding)
