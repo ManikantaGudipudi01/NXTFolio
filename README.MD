@@ -92,17 +92,17 @@ The files to setup docker-compose can be found in the `install` folder.
 
     ```bash
     cd /home
-    cp match-my-fashion-public-CodeCreators/install/setup.sh .
+    cp match-my-fashion-public-CodeCreators/install/setup.sh.
     sudo chmod +x setup.sh
     ```
 
-6. Run `setup.sh` script and follow the instructions (more details about what it does can be found in `install/setup.sh`)
+6. Run `setup.s h` script and follow the instructions (more details about what it does can be found in `install/setup.sh`)
 
     ```bash
-    source setup.sh
+    source setup. sh
     ```
 
-    If you run into trouble, try looking the script since the comments might help.
+    If you run into trouble, try looking at the script since the comments might help.
 
 7. You should be set. Whenever you want to run the server just run
 
